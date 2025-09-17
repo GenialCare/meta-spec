@@ -48,7 +48,7 @@ Este template ajuda equipes de desenvolvimento de software a projetar sua **Arqu
   - [ ] Equipe mista
 - **Uso de Ferramentas IA:**
   - [ ] GitHub Copilot
-  - [ ] Claude/ChatGPT para desenvolvimento
+  - [ ] Gemini/ChatGPT para desenvolvimento
   - [ ] Cursor/Windsurf
   - [ ] Outro: `__________`
 
@@ -95,7 +95,7 @@ Este template ajuda equipes de desenvolvimento de software a projetar sua **Arqu
 
 ## Camada 2: Arquivos de Contexto Otimizados para IA
 
-- [Guia de Desenvolvimento IA](CLAUDE.meta.md) - Exemplo de arquivo CLAUDE.md para nível de projeto  
+- [Guia de Desenvolvimento IA](GEMINI.meta.md) - Exemplo de arquivo CLAUDE.md para nível de projeto  
 - [Guia de Navegação do Codebase](GUIA_CODEBASE.md)
 
 ## Camada 3: Contexto Específico do Domínio
@@ -159,7 +159,7 @@ Que outras opções avaliamos?
 
 ### Camada 2: Arquivos de Contexto Otimizados para IA
 
-**Crie: `CLAUDE.meta.md` (Guia de Desenvolvimento IA)**
+**Crie: `GEMINI.meta.md` (Guia de Desenvolvimento IA)**
 ```markdown
 # Guia de Desenvolvimento IA
 
@@ -364,7 +364,7 @@ Procedimentos de resposta a problemas críticos
   /adr/                        # Layer 1: Architecture decisions
     001-database-choice.md
     002-authentication-strategy.md
-  CLAUDE.meta.md              # Layer 2: AI development guide
+  GEMINI.meta.md              # Layer 2: AI development guide
   CODEBASE_GUIDE.md           # Layer 2: Navigation guide
   BUSINESS_LOGIC.md           # Layer 3: Domain knowledge
   API_SPECIFICATION.md        # Layer 3: API documentation
@@ -385,7 +385,7 @@ Procedimentos de resposta a problemas críticos
 - Use clear, descriptive file names
 - Include relevant examples and code snippets
 
-**For Claude/ChatGPT Development:**
+**For Gemini/ChatGPT Development:**
 - Create consolidated context packages for complex discussions
 - Maintain current context summaries for long development sessions
 - Include relevant error logs and debugging context

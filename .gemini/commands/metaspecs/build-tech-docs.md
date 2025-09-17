@@ -69,7 +69,7 @@ Siga a estrutura multi-arquivo do template técnico:
 - [Registros de Decisões Arquiteturais](adr/)
 
 ## Camada 2: Arquivos de Contexto Otimizados para IA
-- [Guia de Desenvolvimento com IA](CLAUDE.meta.md)
+- [Guia de Desenvolvimento com IA](GEMINI.meta.md)
 - [Guia de Navegação da Base de Código](CODEBASE_GUIDE.md)
 
 ## Camada 3: Contexto Específico do Domínio
@@ -96,7 +96,7 @@ Siga a estrutura multi-arquivo do template técnico:
 - Incluir escolhas de banco de dados, seleções de framework, estratégias de deploy
 - Referenciar histórico de commits e comentários para contexto de decisão
 
-**3. `CLAUDE.meta.md` (Guia de Desenvolvimento com IA)**
+**3. `GEMINI.meta.md` (Guia de Desenvolvimento com IA)**
 - Extrair padrões de estilo de código da base de código existente
 - Documentar abordagens de teste a partir de arquivos de teste e configurações
 - Identificar padrões comuns a partir da análise de código

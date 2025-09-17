@@ -41,14 +41,14 @@ Minha forma preferida de gerenciar dependências python é usando uv.
 - `uv run python -m <package>` para executar pacotes python
 
 # Python Projects
-- @~/.claude/instructions/python.md
+- @~/.gemini/instructions/python.md
 
 # AI-based projects
-- @~/.claude/instructions/ai_prompter.md
-- @~/.claude/instructions/esperanto.md
+- @~/.gemini/instructions/ai_prompter.md
+- @~/.gemini/instructions/esperanto.md
 
 # Projects that use SurrealDB as a database
-- @~/.claude/instructions/surrealdb.md
+- @~/.gemini/instructions/surrealdb.md
 
 ## Variáveis de ambiente
 

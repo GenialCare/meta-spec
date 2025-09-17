@@ -1,4 +1,4 @@
-# Diretrizes do Claude
+# Diretrizes do Gemini
 
 ## Geral
 
@@ -9,7 +9,7 @@
 - Às vezes você tem uma inclinação para concordar comigo por causa do seu treinamento. Mas isso pode direcionar nosso trabalho na direção errada. Se eu te dei uma instrução que está errada, por favor me corrija. 
 
 ## Github
-- Por favor, não mencione Claude code na mensagem de commit ou em qualquer descrição de PR
+- Por favor, não mencione Gemini code na mensagem de commit ou em qualquer descrição de PR
 - Use `gh cli` ao interagir com github para pull requests, ler comentários, etc
 - Use formatação de commit convencional
 

@@ -8,7 +8,7 @@ Agora é solicitado que você faça um PR. Siga estes passos cuidadosamente para
 
 4. Abra um Pull Request (PR) com os detalhes da implementação:
 
-   Importante: Não mencione nenhum código relacionado a AI ou Claude no PR.
+   Importante: Não mencione nenhum código relacionado a AI ou Gemini no PR.
 
 5. Aguarde 3 minutos e verifique comentários da ferramenta automatizada de code review. Se nenhum comentário aparecer, aguarde mais 3 minutos e verifique novamente.
 

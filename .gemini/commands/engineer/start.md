@@ -6,7 +6,7 @@ Este é o comando para iniciar o desenvolvimento de uma funcionalidade.
 ## Configuração
 - Se não estivermos em uma feature branch, peça permissão para criar uma
 - Se estivermos em uma feature branch que corresponde ao nome da funcionalidade, estamos prontos.
-- Certifique-se de que existe uma pasta .claude/sessions/<feature_slug>
+- Certifique-se de que existe uma pasta .gemini/sessions/<feature_slug>
 - Peça ao usuário o input para esta sessão (você receberá um ou mais cards do Linear para trabalhar)
 
 ## Análise
@@ -24,7 +24,7 @@ Após refletir sobre essas questões, formule as 3-5 clarificações mais import
 
 Depois de obter as respostas do humano, considere se precisa fazer mais perguntas. Se sim, faça mais perguntas ao humano.
 
-Uma vez que tenha um bom entendimento do que está sendo construído, salve-o no arquivo .claude/sessions/<feature_slug>/context.md e peça ao humano para revisar.
+Uma vez que tenha um bom entendimento do que está sendo construído, salve-o no arquivo .gemini/sessions/<feature_slug>/context.md e peça ao humano para revisar.
 
 Se o humano concordar com seu entendimento, você pode prosseguir para o próximo passo. Caso contrário, continue iterando juntos até obter aprovação explícita para seguir em frente.
 
@@ -64,7 +64,7 @@ Se ajudar a construir um diagrama MERMAID, sinta-se livre para fazê-lo.
 
 Se, a qualquer momento, você tiver dúvidas ou encontrar algo que contradiga o que entendeu anteriormente, peça esclarecimentos ao humano.
 
-Uma vez que tenha um bom entendimento do que está sendo construído, salve-o no arquivo .claude/sessions/<feature_slug>/architecture.md e peça ao humano para revisar.
+Uma vez que tenha um bom entendimento do que está sendo construído, salve-o no arquivo .gemini/sessions/<feature_slug>/architecture.md e peça ao humano para revisar.
 
 Se o humano concordar com seu entendimento, você pode prosseguir para o próximo passo. Caso contrário, continue iterando juntos até obter aprovação explícita para seguir em frente.
 

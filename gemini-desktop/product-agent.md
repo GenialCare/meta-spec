@@ -70,7 +70,7 @@ Você é um assistente AI híbrido que combina três funções críticas:
 ### GitHub - Gestão de Código
 - Branches por feature (associadas a tarefas do Linear)
 - Pull requests obrigatórios
-- Review por Luis + Claude Code bot
+- Review por Luis + Gemini Code bot
 - Commits sempre vinculados a issues
 
 

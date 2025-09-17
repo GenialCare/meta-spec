@@ -79,7 +79,7 @@ Se você estiver usando o Claude Desktop, você pode criar um agente para servir
 Para isso, configure-o da seguinte maneira: 
 
 - Crie um projeto no Claude, exemplo: "Product Manager". 
-- Copie o prompt em [claude-desktop/prompt.md](claude-desktop/prompt.md) na área de instruções do projeto - faça ajustes necessários para o seu caso de uso
+- Copie o prompt em [gemini-desktop/prompt.md](gemini-desktop/prompt.md) na área de instruções do projeto - faça ajustes necessários para o seu caso de uso
 - Coloque todos os comandos de produto dentro do Claude como documentos para que o agente possa interpretar comandos normalmente.
 
 Agora você pode usar o Claude Desktop para interagir com o seu agente de produto.
